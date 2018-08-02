@@ -1,4 +1,3 @@
-# spblog
 Container for code samples from [blog](http://spblog.net/)
 
 Table of contents:   
