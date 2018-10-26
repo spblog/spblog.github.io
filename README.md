@@ -11,3 +11,4 @@ Table of contents:
 |[Web Components in SPFx world: Vue vs Stencil](http://spblog.net/post/2018/08/15/Web-Components-in-SPFx-world-Vue-vs-Stencil)|[link](https://github.com/spblog/Web-Components-in-SPFx-world-Vue-vs-Stencil)|
 |[Using PnPjs to send requests to MS Graph with SharePoint Framework 1.6](http://spblog.net/post/2018/09/09/Using-PnPjs-to-send-requests-to-MS-Graph-with-SharePoint-Framework-16)|[link](https://github.com/spblog/PnPjs-with-Graph-and-SPFx16)|
 |[Calling MS Graph API from classic SharePoint pages](http://spblog.net/post/2018/09/15/Calling-MS-Graph-API-from-classic-SharePoint-pages)|[link](https://github.com/spblog/MS-Graph-from-classic-page)|
+|[TypeScript Tips: How to reduce the size of a bundle](http://spblog.net/post/2018/10/26/TypeScript-Tips-How-to-reduce-the-size-of-a-bundle)|[link](https://github.com/spblog/TypeScript-with-tslib)|
