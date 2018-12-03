@@ -13,3 +13,4 @@ Table of contents:
 |[Calling MS Graph API from classic SharePoint pages](http://spblog.net/post/2018/09/15/Calling-MS-Graph-API-from-classic-SharePoint-pages)|[link](https://github.com/spblog/MS-Graph-from-classic-page)|
 |[TypeScript Tips: How to reduce the size of a bundle](http://spblog.net/post/2018/10/26/TypeScript-Tips-How-to-reduce-the-size-of-a-bundle)|[link](https://github.com/spblog/TypeScript-with-tslib)|
 |[Stylelint with SPFx integration](http://spblog.net/post/2018/11/06/Stylelint-with-SPFx-integration)|[link](https://github.com/spblog/stylelint-with-SPFx)|
+|[How to create SharePoint Online add-in with ASP.NET Core 2.1](http://spblog.net/post/2018/12/03/How-to-create-SharePoint-Online-add-in-with-ASPNET-Core-21)|[link](https://github.com/spblog/ASP.NET-Core-with-SharePoint-Add-in)|
