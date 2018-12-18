@@ -14,3 +14,4 @@ Table of contents:
 |[TypeScript Tips: How to reduce the size of a bundle](http://spblog.net/post/2018/10/26/TypeScript-Tips-How-to-reduce-the-size-of-a-bundle)|[link](https://github.com/spblog/TypeScript-with-tslib)|
 |[Stylelint with SPFx integration](http://spblog.net/post/2018/11/06/Stylelint-with-SPFx-integration)|[link](https://github.com/spblog/stylelint-with-SPFx)|
 |[How to create SharePoint Online add-in with ASP.NET Core 2.1](http://spblog.net/post/2018/12/03/How-to-create-SharePoint-Online-add-in-with-ASPNET-Core-21)|[link](https://github.com/spblog/ASP.NET-Core-with-SharePoint-Add-in)|
+|[SPFx webpart with MS Graph and PnPjs: step by step guide](https://spblog.net/post/2018/12/11/SPFx-webpart-with-MS-Graph-and-PnPjs-step-by-step-guide)|[link](https://github.com/spblog/SPFx-with-PnPjs-and-MS-Graph)|
