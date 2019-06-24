@@ -16,4 +16,6 @@ Table of contents:
 |[How to create SharePoint Online add-in with ASP.NET Core 2.1](http://spblog.net/post/2018/12/03/How-to-create-SharePoint-Online-add-in-with-ASPNET-Core-21)|[link](https://github.com/spblog/ASP.NET-Core-with-SharePoint-Add-in)|
 |[SPFx webpart with MS Graph and PnPjs: step by step guide](https://spblog.net/post/2018/12/11/SPFx-webpart-with-MS-Graph-and-PnPjs-step-by-step-guide)|[link](https://github.com/spblog/SPFx-with-PnPjs-and-MS-Graph)|
 |[SharePoint Framework development tips: prettify your imports](https://spblog.net/post/2019/02/05/sharepoint-framework-development-tips-prettify-your-imports)|[link](https://github.com/spblog/SPFx-prettify-imports)|
-|[Building Single Page Application with React, MSAL.js and PnPjs](https://spblog.net/post/2019/06/04/building-single-page-application-with-react-msal-js-and-pnpjs)|[link](https://github.com/spblog/react-spa-msal-pnpjs/)
+|[Building Single Page Application with React, MSAL.js and PnPjs](https://spblog.net/post/2019/06/04/building-single-page-application-with-react-msal-js-and-pnpjs)|[link](https://github.com/spblog/react-spa-msal-pnpjs/)|
+|[Using Lerna to manage SPFx projects with library components](https://spblog.net/post/2019/06/24/using-lerna-to-manage-spfx-projects-with-library-components)|[link](https://github.com/spblog/spfx-library-component-lerna)
+
