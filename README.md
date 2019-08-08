@@ -18,4 +18,5 @@ Table of contents:
 |[SharePoint Framework development tips: prettify your imports](https://spblog.net/post/2019/02/05/sharepoint-framework-development-tips-prettify-your-imports)|[link](https://github.com/spblog/SPFx-prettify-imports)|
 |[Building Single Page Application with React, MSAL.js and PnPjs](https://spblog.net/post/2019/06/04/building-single-page-application-with-react-msal-js-and-pnpjs)|[link](https://github.com/spblog/react-spa-msal-pnpjs/)|
 |[Using Lerna to manage SPFx projects with library components](https://spblog.net/post/2019/06/24/using-lerna-to-manage-spfx-projects-with-library-components)|[link](https://github.com/spblog/spfx-library-component-lerna)
+|[Build SharePoint Framework solutions for on-premises SharePoint with ANY version of React, TypeScript or Office UI Fabric React](https://spblog.net/post/2019/08/08/build-sharepoint-framework-solutions-for-on-premises-sharepoint-with-any-version-of-react-typescript-or-office-ui-fabric-react)|[link](https://github.com/spblog/spfx-with-any-versions-of-deps)
 
